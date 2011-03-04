@@ -1,0 +1,218 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = D2AAC07D0554694100DB518D /* ImageCache */;
+		addToTargets = (
+			D2AAC07D0554694100DB518D /* ImageCache */,
+		);
+		codeSenseManager = 73199BA41320F79E00E2D134 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					735,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320928041;
+			PBXWorkspaceStateSaveDate = 320928041;
+		};
+		perUserProjectItems = {
+			73199BAC1320F7D400E2D134 = 73199BAC1320F7D400E2D134 /* PBXTextBookmark */;
+			73199BAD1320F7D400E2D134 = 73199BAD1320F7D400E2D134 /* PBXTextBookmark */;
+			73199C141320F87200E2D134 = 73199C141320F87200E2D134 /* PBXTextBookmark */;
+			73199C151320F87200E2D134 = 73199C151320F87200E2D134 /* PBXTextBookmark */;
+			73199C161320F87200E2D134 = 73199C161320F87200E2D134 /* PBXTextBookmark */;
+			73199C6F1320F8BF00E2D134 = 73199C6F1320F8BF00E2D134 /* PBXTextBookmark */;
+			73199C711320F8BF00E2D134 = 73199C711320F8BF00E2D134 /* PBXTextBookmark */;
+			73199C731320F8BF00E2D134 = 73199C731320F8BF00E2D134 /* PBXTextBookmark */;
+			73199C741320F8BF00E2D134 = 73199C741320F8BF00E2D134 /* PBXTextBookmark */;
+			73199C751320F8BF00E2D134 = 73199C751320F8BF00E2D134 /* PBXTextBookmark */;
+			73199C7A1320F8E600E2D134 = 73199C7A1320F8E600E2D134 /* PBXTextBookmark */;
+			7391D4BE1320F93F001363F7 /* PBXTextBookmark */ = 7391D4BE1320F93F001363F7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 73199BA31320F79E00E2D134 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	73199BA31320F79E00E2D134 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	73199BA41320F79E00E2D134 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	73199BA51320F7B600E2D134 /* ImageCache.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 681}}";
+			sepNavSelRange = "{193, 0}";
+			sepNavVisRange = "{0, 652}";
+			sepNavWindowFrame = "{{19, 0}, {750, 778}}";
+		};
+	};
+	73199BA61320F7B600E2D134 /* ImageCache.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 975}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1742}";
+		};
+	};
+	73199BAC1320F7D400E2D134 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ')' before 'UIImage'";
+		fRef = 73199BA51320F7B600E2D134 /* ImageCache.h */;
+		rLen = 1;
+		rLoc = 27;
+		rType = 1;
+	};
+	73199BAD1320F7D400E2D134 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73199BA51320F7B600E2D134 /* ImageCache.h */;
+		name = "ImageCache.h: 27";
+		rLen = 0;
+		rLoc = 455;
+		rType = 0;
+		vrLen = 331;
+		vrLoc = 297;
+	};
+	73199C141320F87200E2D134 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73199BA61320F7B600E2D134 /* ImageCache.m */;
+		name = "ImageCache.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1742;
+		vrLoc = 0;
+	};
+	73199C151320F87200E2D134 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73199BA51320F7B600E2D134 /* ImageCache.h */;
+		name = "ImageCache.h: 27";
+		rLen = 0;
+		rLoc = 455;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 0;
+	};
+	73199C161320F87200E2D134 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73199BA51320F7B600E2D134 /* ImageCache.h */;
+		name = "ImageCache.h: 10";
+		rLen = 0;
+		rLoc = 206;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 0;
+	};
+	73199C6F1320F8BF00E2D134 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73199C701320F8BF00E2D134 /* UIGestureRecognizerSubclass.h */;
+		name = "UIGestureRecognizerSubclass.h: 9";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 2342;
+		vrLoc = 0;
+	};
+	73199C701320F8BF00E2D134 /* UIGestureRecognizerSubclass.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIGestureRecognizerSubclass.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGestureRecognizerSubclass.h;
+		sourceTree = "<absolute>";
+	};
+	73199C711320F8BF00E2D134 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73199C721320F8BF00E2D134 /* UIKit.h */;
+		name = "UIKit.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1634;
+		vrLoc = 0;
+	};
+	73199C721320F8BF00E2D134 /* UIKit.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIKit.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h;
+		sourceTree = "<absolute>";
+	};
+	73199C731320F8BF00E2D134 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73199BA61320F7B600E2D134 /* ImageCache.m */;
+		name = "ImageCache.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1742;
+		vrLoc = 0;
+	};
+	73199C741320F8BF00E2D134 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73199BA51320F7B600E2D134 /* ImageCache.h */;
+		name = "ImageCache.h: 10";
+		rLen = 0;
+		rLoc = 206;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 0;
+	};
+	73199C751320F8BF00E2D134 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73199BA51320F7B600E2D134 /* ImageCache.h */;
+		name = "ImageCache.h: 10";
+		rLen = 0;
+		rLoc = 198;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 0;
+	};
+	73199C7A1320F8E600E2D134 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73199BA51320F7B600E2D134 /* ImageCache.h */;
+		name = "ImageCache.h: 10";
+		rLen = 0;
+		rLoc = 193;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 0;
+	};
+	7391D4BE1320F93F001363F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 73199BA51320F7B600E2D134 /* ImageCache.h */;
+		name = "ImageCache.h: 10";
+		rLen = 0;
+		rLoc = 193;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 0;
+	};
+	D2AAC07D0554694100DB518D /* ImageCache */ = {
+		activeExec = 0;
+	};
+}

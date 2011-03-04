@@ -1,0 +1,111 @@
+TImageCache
+v7
+r0
+t320927956.027235
+cCheck dependencies
+cProcessPCH /var/folders/Zj/ZjiCRDQaGsWlrUE91twOBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageCache_Prefix-ecfuwntpnebqvhgehxfvejdqerem/ImageCache_Prefix.pch.gch ImageCache_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/Objects-normal/i386/ImageCache.o /Users/sajidnizami/Documents/Dev/ImageCache/ImageCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/sajidnizami/Documents/Dev/ImageCache/build/Debug-iphonesimulator/libImageCache.a normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sajidnizami/Documents/Dev/ImageCache/ImageCache.h
+c000000004D70C153000000000000028C
+t1299235155
+s652
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sajidnizami/Documents/Dev/ImageCache/ImageCache.m
+c000000004D6349AD00000000000008FF
+t1298352557
+s2303
+i"ImageCache.h"
+
+N/Users/sajidnizami/Documents/Dev/ImageCache/ImageCache_Prefix.pch
+c000000004D70C01500000000000000BC
+t1299234837
+s188
+i<Foundation/Foundation.h>
+
+N/Users/sajidnizami/Documents/Dev/ImageCache/build/Debug-iphonesimulator/libImageCache.a
+t1299235156
+s43824
+
+N/Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/Objects-normal/i386/ImageCache.LinkFileList
+c000000004D70C03D000000000000008B
+t1299234877
+s139
+
+N/Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/Objects-normal/i386/ImageCache.o
+t1299235155
+s43536
+
+N/var/folders/Zj/ZjiCRDQaGsWlrUE91twOBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageCache_Prefix-ecfuwntpnebqvhgehxfvejdqerem/ImageCache_Prefix.pch.gch
+t1299234877
+s10505840
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320927955#320927955#0(0"0(0#1#0"8602977792#0"0#
+
+CCompileC build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/Objects-normal/i386/ImageCache.o /Users/sajidnizami/Documents/Dev/ImageCache/ImageCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320927955.627703
+e320927956.001194
+r1
+xCompileC
+xbuild/ImageCache.build/Debug-iphonesimulator/ImageCache.build/Objects-normal/i386/ImageCache.o
+x/Users/sajidnizami/Documents/Dev/ImageCache/ImageCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/sajidnizami/Documents/Dev/ImageCache/ImageCache.m320927955#320927956#0(0"0(0#0#56"/Users/sajidnizami/Documents/Dev/ImageCache/ImageCache.m8599935872#2040"    cd /Users/sajidnizami/Documents/Dev/ImageCache    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/ImageCache-generated-files.hmap -I/Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/ImageCache-own-target-headers.hmap -I/Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/ImageCache-all-target-headers.hmap -iquote /Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/ImageCache-project-headers.hmap -F/Users/sajidnizami/Documents/Dev/ImageCache/build/Debug-iphonesimulator -I/Users/sajidnizami/Documents/Dev/ImageCache/build/Debug-iphonesimulator/include -I/Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/DerivedSources/i386 -I/Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/DerivedSources -include /var/folders/Zj/ZjiCRDQaGsWlrUE91twOBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageCache_Prefix-ecfuwntpnebqvhgehxfvejdqerem/ImageCache_Prefix.pch -c /Users/sajidnizami/Documents/Dev/ImageCache/ImageCache.m -o /Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/Objects-normal/i386/ImageCache.o0#
+
+CLibtool /Users/sajidnizami/Documents/Dev/ImageCache/build/Debug-iphonesimulator/libImageCache.a normal i386
+s320927956.001301
+e320927956.027184
+r1
+xLibtool
+x/Users/sajidnizami/Documents/Dev/ImageCache/build/Debug-iphonesimulator/libImageCache.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@63"Libtool build/Debug-iphonesimulator/libImageCache.a normal i386320927956#320927956#0(136"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8628348768#789"    cd /Users/sajidnizami/Documents/Dev/ImageCache    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sajidnizami/Documents/Dev/ImageCache/build/Debug-iphonesimulator -filelist /Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/Objects-normal/i386/ImageCache.LinkFileList -ObjC -framework Foundation -framework UIKit -o /Users/sajidnizami/Documents/Dev/ImageCache/build/Debug-iphonesimulator/libImageCache.a0#
+
+CProcessPCH /var/folders/Zj/ZjiCRDQaGsWlrUE91twOBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageCache_Prefix-ecfuwntpnebqvhgehxfvejdqerem/ImageCache_Prefix.pch.gch ImageCache_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320927677.140395
+e320927677.960086
+r1
+xProcessPCH
+x/var/folders/Zj/ZjiCRDQaGsWlrUE91twOBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageCache_Prefix-ecfuwntpnebqvhgehxfvejdqerem/ImageCache_Prefix.pch.gch
+xImageCache_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile ImageCache_Prefix.pch320927677#320927677#0(0"0(0#0#65"/Users/sajidnizami/Documents/Dev/ImageCache/ImageCache_Prefix.pch7307199664802326528#1912"    cd /Users/sajidnizami/Documents/Dev/ImageCache    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/ImageCache-generated-files.hmap -I/Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/ImageCache-own-target-headers.hmap -I/Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/ImageCache-all-target-headers.hmap -iquote /Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/ImageCache-project-headers.hmap -F/Users/sajidnizami/Documents/Dev/ImageCache/build/Debug-iphonesimulator -I/Users/sajidnizami/Documents/Dev/ImageCache/build/Debug-iphonesimulator/include -I/Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/DerivedSources/i386 -I/Users/sajidnizami/Documents/Dev/ImageCache/build/ImageCache.build/Debug-iphonesimulator/ImageCache.build/DerivedSources -c /Users/sajidnizami/Documents/Dev/ImageCache/ImageCache_Prefix.pch -o /var/folders/Zj/ZjiCRDQaGsWlrUE91twOBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageCache_Prefix-ecfuwntpnebqvhgehxfvejdqerem/ImageCache_Prefix.pch.gch0#
+

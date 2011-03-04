@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------------------
+contact: about.me/sajid.nizami
+
+A simple library to load images in background and store them in filesystem while setting up image view. Image View is loaded in a background thread. 
+
+To use this: 
+
+[ImageCache getImage:<url> andSet:<UIImageView * reference> forDuration:<for duration>];
+
+URL is NSString *
+UIImageView * is the reference of where the image needs to be set\
+Duration is defined in the following manner: 
+  Keep: Stores the images in the Library and when application is backed up by phone all the images are backed up too.
+  OneWeek: Stores images in the tmp/OneWeek folder 
+  OneMonth: Stores images in the tmp/OneMonth folder
+  Temp: Stores images in the tmp folder.
+  
+TODO: Add a function to look up all files in the directories and delete them if they have been in the tmp folders for more than the specified period. 
